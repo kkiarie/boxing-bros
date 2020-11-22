@@ -1,0 +1,31 @@
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - faq_boxing_bro
+ 
+
+responses:
+  utter_greet:
+  - text: "🥊Hey! How are you?"
+  utter_goodbye:
+  - text: "🥊Bye for now"
+  utter_faq_boxing_bro:
+  - text: "Boxing Bros started as an obsession with fitness training. our classes are perfect for young to middle age men and women wanting to better their fitness, confidence and most importantly themselves. Our hope is that you look and feel like champions, no matter who they might be – and to carry this within themselves throughout life."
+
+  utter_cheer_up:
+  - text: "Winners are not people who never fail, but people who never quit."
+  - text: "Stay positive, work hard, and make it happen."
+  - text: "Being happy doesn’t mean that everything is perfect. It simply means that you’ve decided to look beyond the imperfections of life."
+
+  utter_happy:
+  - text: "Great, carry on!" 
+  - text: "Glad you think so!"
+
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
