@@ -67,6 +67,6 @@
 - Tell me about the packages that you are selling
 
 
-## intent:boxing_bros_benefit
+## intent:boxing_bros_benefits
 - what is unique about boxing bros
 - what benefits do i get with boxing bros

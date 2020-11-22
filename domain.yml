@@ -19,9 +19,8 @@ responses:
 
   utter_boxing_bros_package:
   - text: "🥊 Our Packages"
-
   utter_boxing_bros_benefits:
-  - text: "🥊 What makes us different" 
+  - text: "🥊 Boxing Bro\n⏲️ TIME :: We provide our services during convenient times that fit well with your schedule.\n😊 CONVENIENCE :: Our quality of training will ensure that your fitness needs are well met.\n⌛ SCHEDULE :: We lias with your schedule ensuring that your personal activities aren't altered.\n 🗺️ LOCATION :: We provide both home training and gym training for your convenience." 
 
   utter_cheer_up:
   - text: "Winners are not people who never fail, but people who never quit."
