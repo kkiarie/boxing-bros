@@ -60,3 +60,7 @@
 - Tell me a bit more about Boxing Bros
 - I want to hear about the Bro Boxing
 - Tell me something about Bro Boxing
+
+
+## intent:faq_boxing_bros_package
+- tell me about packages you offer
