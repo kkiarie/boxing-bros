@@ -4,8 +4,9 @@ intents:
   - affirm
   - deny
   - mood_great
-  - faq_boxing_bro
-  - faq_boxing_bros_package
+  - boxing_bro
+  - boxing_bros_package
+  - boxing_bros_benefits
  
 
 responses:
@@ -13,12 +14,14 @@ responses:
   - text: "🥊Hey! How are you?"
   utter_goodbye:
   - text: "🥊Bye for now"
-  utter_faq_boxing_bro:
+  utter_boxing_bro:
   - text: "Boxing Bros started as an obsession with fitness training. our classes are perfect for young to middle age men and women wanting to better their fitness, confidence and most importantly themselves. Our hope is that you look and feel like champions, no matter who they might be – and to carry this within themselves throughout life."
 
-  utter_faq_boxing_bros_package:
+  utter_boxing_bros_package:
   - text: "🥊 Our Packages"
- 
+
+  utter_boxing_bros_benefits:
+  - text: "🥊 What makes us different" 
 
   utter_cheer_up:
   - text: "Winners are not people who never fail, but people who never quit."

@@ -52,7 +52,7 @@
 
 
 
-## intent:faq_boxing_bro
+## intent:boxing_bro
 - who are you
 - tell me more about boxing bro
 - boxing bro
@@ -62,5 +62,11 @@
 - Tell me something about Bro Boxing
 
 
-## intent:faq_boxing_bros_package
+## intent:boxing_bros_package
 - tell me about packages you offer
+- Tell me about the packages that you are selling
+
+
+## intent:boxing_bros_benefit
+- what is unique about boxing bros
+- what benefits do i get with boxing bros
